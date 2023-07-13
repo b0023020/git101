@@ -1,3 +1,3 @@
-This is a test project.
-Contennts:
-:hello.txt
+This is a test project for Git.
+Contents:
+*hello.txt
